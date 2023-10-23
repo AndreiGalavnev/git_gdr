@@ -87,7 +87,7 @@ def parser_headers(doc):
 
 
     
-#https://drive.google.com/drive/folders/1Yba_EYXdkP7WTR4fkGU2gfv7zZ_Ui-NO?usp=share_link
+
 
 if __name__=="__main__":
     st.header('G-drive folders downloader')
